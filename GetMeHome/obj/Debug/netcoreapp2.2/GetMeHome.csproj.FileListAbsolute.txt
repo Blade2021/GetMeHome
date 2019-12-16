@@ -1,0 +1,14 @@
+C:\MyProjects\CharlesWellsWEB\GetMeHome\GetMeHome\obj\Debug\netcoreapp2.2\GetMeHome.csprojAssemblyReference.cache
+C:\MyProjects\CharlesWellsWEB\GetMeHome\GetMeHome\obj\Debug\netcoreapp2.2\GetMeHome.csproj.CoreCompileInputs.cache
+C:\MyProjects\CharlesWellsWEB\GetMeHome\GetMeHome\obj\Debug\netcoreapp2.2\GetMeHome.RazorAssemblyInfo.cache
+C:\MyProjects\CharlesWellsWEB\GetMeHome\GetMeHome\obj\Debug\netcoreapp2.2\GetMeHome.RazorAssemblyInfo.cs
+C:\MyProjects\CharlesWellsWEB\GetMeHome\GetMeHome\obj\Debug\netcoreapp2.2\GetMeHome.AssemblyInfoInputs.cache
+C:\MyProjects\CharlesWellsWEB\GetMeHome\GetMeHome\obj\Debug\netcoreapp2.2\GetMeHome.AssemblyInfo.cs
+C:\MyProjects\CharlesWellsWEB\GetMeHome\GetMeHome\bin\Debug\netcoreapp2.2\GetMeHome.deps.json
+C:\MyProjects\CharlesWellsWEB\GetMeHome\GetMeHome\bin\Debug\netcoreapp2.2\GetMeHome.runtimeconfig.json
+C:\MyProjects\CharlesWellsWEB\GetMeHome\GetMeHome\bin\Debug\netcoreapp2.2\GetMeHome.runtimeconfig.dev.json
+C:\MyProjects\CharlesWellsWEB\GetMeHome\GetMeHome\bin\Debug\netcoreapp2.2\GetMeHome.dll
+C:\MyProjects\CharlesWellsWEB\GetMeHome\GetMeHome\bin\Debug\netcoreapp2.2\GetMeHome.pdb
+C:\MyProjects\CharlesWellsWEB\GetMeHome\GetMeHome\obj\Debug\netcoreapp2.2\GetMeHome.RazorTargetAssemblyInfo.cache
+C:\MyProjects\CharlesWellsWEB\GetMeHome\GetMeHome\obj\Debug\netcoreapp2.2\GetMeHome.dll
+C:\MyProjects\CharlesWellsWEB\GetMeHome\GetMeHome\obj\Debug\netcoreapp2.2\GetMeHome.pdb

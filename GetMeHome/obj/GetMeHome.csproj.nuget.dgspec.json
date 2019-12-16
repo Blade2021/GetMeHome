@@ -1,0 +1,74 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\MyProjects\\CharlesWellsWEB\\GetMeHome\\GetMeHome\\GetMeHome.csproj": {}
+  },
+  "projects": {
+    "C:\\MyProjects\\CharlesWellsWEB\\GetMeHome\\GetMeHome\\GetMeHome.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\MyProjects\\CharlesWellsWEB\\GetMeHome\\GetMeHome\\GetMeHome.csproj",
+        "projectName": "GetMeHome",
+        "projectPath": "C:\\MyProjects\\CharlesWellsWEB\\GetMeHome\\GetMeHome\\GetMeHome.csproj",
+        "packagesPath": "C:\\Users\\chw.PHIN\\.nuget\\packages\\",
+        "outputPath": "C:\\MyProjects\\CharlesWellsWEB\\GetMeHome\\GetMeHome\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\ProgramData\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\chw.PHIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\MyProjects\\nuget": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://www.nuget.org/api/v2/": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

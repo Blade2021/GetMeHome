@@ -12,3 +12,17 @@ C:\MyProjects\CharlesWellsWEB\GetMeHome\GetMeHome\bin\Debug\netcoreapp2.2\GetMeH
 C:\MyProjects\CharlesWellsWEB\GetMeHome\GetMeHome\obj\Debug\netcoreapp2.2\GetMeHome.RazorTargetAssemblyInfo.cache
 C:\MyProjects\CharlesWellsWEB\GetMeHome\GetMeHome\obj\Debug\netcoreapp2.2\GetMeHome.dll
 C:\MyProjects\CharlesWellsWEB\GetMeHome\GetMeHome\obj\Debug\netcoreapp2.2\GetMeHome.pdb
+C:\MyProjects\gitrepo\GetMeHome\GetMeHome\bin\Debug\netcoreapp2.2\GetMeHome.deps.json
+C:\MyProjects\gitrepo\GetMeHome\GetMeHome\bin\Debug\netcoreapp2.2\GetMeHome.runtimeconfig.json
+C:\MyProjects\gitrepo\GetMeHome\GetMeHome\bin\Debug\netcoreapp2.2\GetMeHome.runtimeconfig.dev.json
+C:\MyProjects\gitrepo\GetMeHome\GetMeHome\bin\Debug\netcoreapp2.2\GetMeHome.dll
+C:\MyProjects\gitrepo\GetMeHome\GetMeHome\bin\Debug\netcoreapp2.2\GetMeHome.pdb
+C:\MyProjects\gitrepo\GetMeHome\GetMeHome\obj\Debug\netcoreapp2.2\GetMeHome.csprojAssemblyReference.cache
+C:\MyProjects\gitrepo\GetMeHome\GetMeHome\obj\Debug\netcoreapp2.2\GetMeHome.csproj.CoreCompileInputs.cache
+C:\MyProjects\gitrepo\GetMeHome\GetMeHome\obj\Debug\netcoreapp2.2\GetMeHome.RazorAssemblyInfo.cache
+C:\MyProjects\gitrepo\GetMeHome\GetMeHome\obj\Debug\netcoreapp2.2\GetMeHome.RazorAssemblyInfo.cs
+C:\MyProjects\gitrepo\GetMeHome\GetMeHome\obj\Debug\netcoreapp2.2\GetMeHome.AssemblyInfoInputs.cache
+C:\MyProjects\gitrepo\GetMeHome\GetMeHome\obj\Debug\netcoreapp2.2\GetMeHome.AssemblyInfo.cs
+C:\MyProjects\gitrepo\GetMeHome\GetMeHome\obj\Debug\netcoreapp2.2\GetMeHome.RazorTargetAssemblyInfo.cache
+C:\MyProjects\gitrepo\GetMeHome\GetMeHome\obj\Debug\netcoreapp2.2\GetMeHome.dll
+C:\MyProjects\gitrepo\GetMeHome\GetMeHome\obj\Debug\netcoreapp2.2\GetMeHome.pdb

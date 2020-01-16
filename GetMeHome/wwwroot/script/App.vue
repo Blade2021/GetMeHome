@@ -1,6 +1,6 @@
 ﻿<template>
     <div>
-        Main App
+        Get Me Home Example
         <component1sample :data="sampledata"></component1sample>
     </div>
 </template>

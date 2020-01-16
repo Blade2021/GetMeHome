@@ -12,6 +12,7 @@ import { parsePhoneNumberFromString } from 'libphonenumber-js'
 import VuePreferences from 'vue-preferences';
 import 'lodash'
 import App from './App.vue'
+import StartPage from './pages/startpage.vue'
 
 Vue.use(VuePreferences);
 Vue.use(VueRouter);
@@ -85,6 +86,7 @@ webcall.interceptors.request.use(function(config) {
 
 var routes = [   
     { path: '/', component: App },
+    { path: '/start', component: StartPage, canReuse: true, props: false }
     //{ path: '/componenttest1', component: ConrollerApp, canReuse: false, props: false }
 ];
 var router = new VueRouter({

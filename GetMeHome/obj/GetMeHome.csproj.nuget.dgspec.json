@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\MyProjects\\CharlesWellsWEB\\GetMeHome\\GetMeHome\\GetMeHome.csproj": {}
+    "C:\\MyProjects\\gitrepo\\GetMeHome\\GetMeHome\\GetMeHome.csproj": {}
   },
   "projects": {
-    "C:\\MyProjects\\CharlesWellsWEB\\GetMeHome\\GetMeHome\\GetMeHome.csproj": {
+    "C:\\MyProjects\\gitrepo\\GetMeHome\\GetMeHome\\GetMeHome.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\MyProjects\\CharlesWellsWEB\\GetMeHome\\GetMeHome\\GetMeHome.csproj",
+        "projectUniqueName": "C:\\MyProjects\\gitrepo\\GetMeHome\\GetMeHome\\GetMeHome.csproj",
         "projectName": "GetMeHome",
-        "projectPath": "C:\\MyProjects\\CharlesWellsWEB\\GetMeHome\\GetMeHome\\GetMeHome.csproj",
+        "projectPath": "C:\\MyProjects\\gitrepo\\GetMeHome\\GetMeHome\\GetMeHome.csproj",
         "packagesPath": "C:\\Users\\chw.PHIN\\.nuget\\packages\\",
-        "outputPath": "C:\\MyProjects\\CharlesWellsWEB\\GetMeHome\\GetMeHome\\obj\\",
+        "outputPath": "C:\\MyProjects\\gitrepo\\GetMeHome\\GetMeHome\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\ProgramData\\Xamarin\\NuGet\\",

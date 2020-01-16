@@ -3,3 +3,6 @@
 ################################################################################
 
 /GetMeHome/bin/Debug/netcoreapp2.2
+/GetMeHome/node_modules/.bin
+/GetMeHome/node_modules
+/.vs/GetMeHome/v16/Server/sqlite3
